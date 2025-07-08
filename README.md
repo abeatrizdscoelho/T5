@@ -29,9 +29,20 @@ O sistema permite o controle e gerenciamento de:
 Este guia oferece instruções detalhadas sobre como baixar, configurar e executar este projeto em sua máquina local.
 
 ### Pré-requisitos
+
 - **VSCode**: Editor de código para visualização e edição do projeto. [Baixe o VSCode](https://code.visualstudio.com/download)
-- **Node.js**: Ambiente de execução de JavaScript open-source. [Baixe o Node.js](https://nodejs.org/en/download)
 - **MySQL**: Banco de dados para armazenar informações necessárias ao sistema. [Baixe o MYSQL](https://dev.mysql.com/downloads/installer/)
+
+#### 🌐 Compatibilidade de Ambiente
+
+Para garantir o funcionamento correto do projeto, recomenda-se utilizar:
+
+- **NPM:** versão 8.x ou superior
+- **Node.js** entre **v16.0.0 e v20.0.0**: Ambiente de execução de JavaScript open-source. [Baixe o Node.js](https://nodejs.org/en/download)
+
+#### 📌 Observações
+O uso de versões mais recentes, como Node v22.x, pode causar incompatibilidades com pacotes como `react-scripts`.  
+Este projeto foi testado com Node v22.13.0 e funcionou corretamente, mas o suporte oficial de algumas bibliotecas pode não estar garantido ainda.
 
 ---
 
