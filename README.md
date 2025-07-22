@@ -41,7 +41,7 @@ Para garantir o funcionamento correto do projeto, recomenda-se utilizar:
 - **Node.js** entre **v16.0.0 e v20.0.0**: Ambiente de execução de JavaScript open-source. [Baixe o Node.js](https://nodejs.org/en/download)
 
 #### 📌 Observações
-O uso de versões mais recentes, como Node v22.x, pode causar incompatibilidades com pacotes como `react-scripts`.  
+O uso de versões mais recentes do Node.js, como v22.x, pode causar incompatibilidades com pacotes como `react-scripts`.  
 Este projeto foi testado com Node v22.13.0 e funcionou corretamente, mas o suporte oficial de algumas bibliotecas pode não estar garantido ainda.
 
 ---
@@ -49,7 +49,7 @@ Este projeto foi testado com Node v22.13.0 e funcionou corretamente, mas o supor
 ### 🔁 Clonando o Repositório
 
 ```bash
-git clone https://github.com/abeatrizdscoelho/T5.git
+git clone https://github.com/abeatrizdscoelho/World-Beauty.git
   ```
 
 ---
