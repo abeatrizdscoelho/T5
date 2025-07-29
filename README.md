@@ -15,6 +15,12 @@ O sistema permite o controle e gerenciamento de:
 
 <br>
 
+## 🔗 Demonstração do Projeto
+
+📽️ Veja o vídeo do projeto rodando: [Clique aqui para assistir](https://www.youtube.com/watch?v=vx9KHWr9XmE)
+
+<br>
+
 ## 🔧 Tecnologias Utilizadas
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
